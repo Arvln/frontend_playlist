@@ -1,0 +1,331 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "year": 2020,
+      "month": 12,
+      "schedules": [
+        {
+          "date": 13,
+          "dayOfWeek": 6,
+          "details": [
+            {
+              "id": "1",
+              "time": {
+                "hour": 15,
+                "minute": 30
+              },
+              "address": "桃園市立綜合體育館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo3.png",
+                  "name": "新北街口攻城獅",
+                  "score": 112
+                },
+                {
+                  "logoImageUrl": "/images/logo4.png",
+                  "name": "台北富邦勇士",
+                  "score": 105
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "time": {
+                "hour": 18,
+                "minute": 15
+              },
+              "address": "臺北和平籃球館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo1.png",
+                  "name": "桃園領航猿",
+                  "score": 110
+                },
+                {
+                  "logoImageUrl": "/images/logo4.png",
+                  "name": "台北富邦勇士",
+                  "score": 115
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": 14,
+          "dayOfWeek": 7,
+          "details": [
+            {
+              "id": "3",
+              "time": {
+                "hour": 14,
+                "minute": 45
+              },
+              "address": "台北體育館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo1.png",
+                  "name": "桃園領航猿",
+                  "score": 113
+                },
+                {
+                  "logoImageUrl": "/images/logo2.png",
+                  "name": "福爾摩沙台新夢想家",
+                  "score": 106
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "time": {
+                "hour": 15,
+                "minute": 35
+              },
+              "address": "桃園市立綜合體育館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo3.png",
+                  "name": "新北街口攻城獅",
+                  "score": 116
+                },
+                {
+                  "logoImageUrl": "/images/logo2.png",
+                  "name": "福爾摩沙台新夢想家",
+                  "score": 112
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "year": 2021,
+      "month": 1,
+      "schedules": [
+        {
+          "date": 6,
+          "dayOfWeek": 4,
+          "details": [
+            {
+              "id": "5",
+              "time": {
+                "hour": 15,
+                "minute": 30
+              },
+              "address": "桃園市立綜合體育館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo3.png",
+                  "name": "新北街口攻城獅",
+                  "score": 112
+                },
+                {
+                  "logoImageUrl": "/images/logo4.png",
+                  "name": "台北富邦勇士",
+                  "score": 105
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "time": {
+                "hour": 18,
+                "minute": 15
+              },
+              "address": "臺北和平籃球館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo1.png",
+                  "name": "桃園領航猿",
+                  "score": 110
+                },
+                {
+                  "logoImageUrl": "/images/logo4.png",
+                  "name": "台北富邦勇士",
+                  "score": 115
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": 7,
+          "dayOfWeek": 5,
+          "details": [
+            {
+              "id": "7",
+              "time": {
+                "hour": 14,
+                "minute": 45
+              },
+              "address": "台北體育館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo1.png",
+                  "name": "桃園領航猿",
+                  "score": 113
+                },
+                {
+                  "logoImageUrl": "/images/logo2.png",
+                  "name": "福爾摩沙台新夢想家",
+                  "score": 106
+                }
+              ]
+            },
+            {
+              "id": "8",
+              "time": {
+                "hour": 15,
+                "minute": 35
+              },
+              "address": "桃園市立綜合體育館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo3.png",
+                  "name": "新北街口攻城獅",
+                  "score": 116
+                },
+                {
+                  "logoImageUrl": "/images/logo2.png",
+                  "name": "福爾摩沙台新夢想家",
+                  "score": 112
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "year": 2021,
+      "month": 2,
+      "schedules": [
+        {
+          "date": 22,
+          "dayOfWeek": 2,
+          "details": [
+            {
+              "id": "9",
+              "time": {
+                "hour": 13,
+                "minute": 55
+              },
+              "address": "桃園市立綜合體育館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo1.png",
+                  "name": "桃園領航猿",
+                  "score": 110
+                },
+                {
+                  "logoImageUrl": "/images/logo4.png",
+                  "name": "台北富邦勇士",
+                  "score": 105
+                }
+              ]
+            },
+            {
+              "id": "10",
+              "time": {
+                "hour": 19,
+                "minute": 25
+              },
+              "address": "臺北和平籃球館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo3.png",
+                  "name": "新北街口攻城獅",
+                  "score": 120
+                },
+                {
+                  "logoImageUrl": "/images/logo2.png",
+                  "name": "福爾摩沙台新夢想家",
+                  "score": 115
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": 23,
+          "dayOfWeek": 3,
+          "details": [
+            {
+              "id": "11",
+              "time": {
+                "hour": 16,
+                "minute": 15
+              },
+              "address": "台北體育館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo1.png",
+                  "name": "桃園領航猿",
+                  "score": 113
+                },
+                {
+                  "logoImageUrl": "/images/logo2.png",
+                  "name": "福爾摩沙台新夢想家",
+                  "score": 116
+                }
+              ]
+            },
+            {
+              "id": "12",
+              "time": {
+                "hour": 20,
+                "minute": 35
+              },
+              "address": "桃園市立綜合體育館",
+              "teams": [
+                {
+                  "logoImageUrl": "/images/logo3.png",
+                  "name": "新北街口攻城獅",
+                  "score": 123
+                },
+                {
+                  "logoImageUrl": "/images/logo1.png",
+                  "name": "桃園領航猿",
+                  "score": 112
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "year": 2021,
+      "month": 3,
+      "schedules": []
+    },
+    {
+      "id": "5",
+      "year": 2021,
+      "month": 4,
+      "schedules": []
+    },
+    {
+      "id": "6",
+      "year": 2021,
+      "month": 5,
+      "schedules": []
+    },
+    {
+      "id": "7",
+      "year": 2021,
+      "month": 6,
+      "schedules": []
+    },
+    {
+      "id": "8",
+      "year": 2021,
+      "month": 7,
+      "schedules": []
+    }
+  ]
+}

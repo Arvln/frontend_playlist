@@ -1,0 +1,21 @@
+.component-navbar-wrapper {
+  margin: 20px 3px 0;
+  display: flex;
+  align-items: center;
+  
+  .component-navbar-arrow {
+    width: 12px;
+    height: 12px;
+    line-height: 25px;
+    transform: rotate(52deg) skewX(15deg);
+    border-left: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+  }
+
+  .component-navbar-title {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    flex-grow: 1;
+  }
+}

@@ -1,0 +1,88 @@
+.feature-schedule-wrapper {
+  min-width: 290px;
+  display: flex;
+  overflow-x: auto;
+
+  .feature-schedule-content {
+    min-width: 96%;
+    margin: 15px 5px 0;
+    padding: 15px;
+    border-radius: 10px;
+    background: linear-gradient(0deg, rgba(54,55,55,1) 43%, rgba(55,54,55,1) 74%, rgba(91,0,174,0.86%));
+    color: #fff;
+  
+    .feature-schedule-title {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+  
+      .feature-schedule-title-time {
+        font-size: 18px;
+        white-space: nowrap;
+      }
+  
+      > span {
+        white-space: nowrap;
+        color: #A2A4A3;
+      }
+    }
+  
+    .feature-schedule-address {
+      color: #A2A4A3;
+    }
+  
+    .feature-schedule-score-information {
+      margin: 15px 5px;
+      display: flex;
+      align-items: center;
+  
+      .feature-schedule-logo-wrapper {
+        width: 36px;
+        height: 36px;
+        margin-right: 5px;
+  
+        > img {
+          width: 100%;
+          height: 100%;
+        }
+      }
+  
+      .feature-schedule-team-name,
+      .feature-schedule-team-score {
+        font-size: 18px;
+        white-space: nowrap;
+      }
+
+      .feature-schedule-team-name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+  
+      .feature-schedule-team-score {
+        flex-grow: 1;
+        text-align: right;
+      }
+    }
+  
+    .feature-schedule-options {
+      margin: 0 -5px;
+      display: flex;
+      justify-content: space-between;
+  
+      .feature-schedule-details,
+      .feature-schedule-booking {
+        margin: 0 5px;
+        width: 50%;
+        text-align: center;
+      }
+  
+      .feature-schedule-details {
+        background-color: #565857;
+      }
+  
+      .feature-schedule-booking {
+        background-color: #930000;
+      }
+    }
+  }
+}

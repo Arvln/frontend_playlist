@@ -1,0 +1,17 @@
+.component-button-wrapper {
+  height: 45px;
+  border-radius: 8px;
+  overflow: hidden;
+
+  > button {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    font-size: 18px;
+
+    .component-button-text {
+      padding: 0 10px;
+      white-space: nowrap;
+    }
+  }
+}

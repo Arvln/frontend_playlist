@@ -1,0 +1,60 @@
+.feature-title-slider-wrapper {
+  display: flex;
+  margin: 0 -5px;
+  overflow-x: auto;
+
+  .feature-title-slider-button {
+    padding: 5px;
+
+    .feature-title-slider-button-content {
+      background-color: #363637;
+
+      &-selected {
+        background-color: #3A006F;
+
+        .component-button-text {
+          display: flex;
+          align-items: center;
+
+          &::before {
+            content: '';
+            width: 10px;
+            height: 10px;
+            margin-right: 12px;
+            border-radius: 50%;
+            background-color: #921AFF;
+            animation: flash 1.5s ease-in;
+            animation-iteration-count: infinite;
+          }
+
+          @keyframes flash {
+            100% {
+                transform: scale(1);
+                opacity: 1;
+            }
+        
+            75% {
+                transform: scale(.8);
+                opacity: .8;
+            }
+        
+            50% {
+                transform: scale(.6);
+                opacity: .6;
+            }
+        
+            25% {
+                transform: scale(.4);
+                opacity: .4;
+            }
+        
+            0% {
+                transform: scale(.2);
+                opacity: .2;
+            }
+          }
+        }
+      }
+    }
+  }
+}
